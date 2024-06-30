@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore .env file
+.env
+
+# Ignore .streamlit directory
+.streamlit/
+
+# Ignore pyvenv configuration
+pyvenv.cfg
